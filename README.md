@@ -2,7 +2,6 @@
 
 How are you? I’m Terence Wang, Department of Electronic and Communication Engineering, Beijing Electronic Science and Technology Institute.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api？TerenceWangShenxing=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # 📖 Contents
 
