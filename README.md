@@ -1,6 +1,6 @@
 # Terence's blog
 ## About me
-👋 Hi, I’m Terence Wang, Department of Electronic and Communication Engineering, Beijing Institute of Electronic Science and Technology.
+👋 Hi, I’m Terence Wang, Department of Electronic and Communication Engineering, Beijing Electronic Science and Technology Institute.
 I am interested in ice skating, dancing, surfing, piano, guitar, and Lego.
 
 ## Licheepi 4A
