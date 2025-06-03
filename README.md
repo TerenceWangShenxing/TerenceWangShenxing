@@ -2,7 +2,7 @@
 
 How are you? I’m Terence Wang, Department of Electronic and Communication Engineering, Beijing Electronic Science and Technology Institute.
 
-(https://github-readme-stats.vercel.app/api?username=TerenceWangShenxing)]
+[(https://github-readme-stats.vercel.app/api?username=TerenceWangShenxing)]
 # 📖 Contents
 
 - [📌 Licheepi 4A]
