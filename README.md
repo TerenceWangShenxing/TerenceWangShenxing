@@ -2,6 +2,7 @@
 
 How are you? I’m Terence Wang, Department of Electronic and Communication Engineering, Beijing Electronic Science and Technology Institute.
 
+https://github-readme-stats.vercel.app/api?username=TerenceWangShenxing&theme=dark
 
 # 📖 Contents
 
